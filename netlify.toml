@@ -1,11 +1,11 @@
 [[redirects]]
-  from = " https://docs.shipyard.tools/*"
+  from = "https://docs.shipyard.tools/*"
   to = "https://help.shipyard.tools/:splat"
   status = 301
   force = true
 
  [[redirects]]
-  from = " https://affectionate-poitras-04aeb0.netlify.com/*"
+  from = "https://affectionate-poitras-04aeb0.netlify.com/*"
   to = "https://help.shipyard.tools/:splat"
   status = 301
   force = true
