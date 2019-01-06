@@ -1,16 +1,16 @@
 ---
 baseURL: "/"
 languageCode: "en-us"
-title: "Replicated Help Center"
+title: "Shipyard Help Center"
 theme: "replicated-docs-theme"
 metadataformat: "yaml"
 canonifyurls: true
-description: "Documentation and knowledgebase for Replicated."
+description: "Documentation and knowledgebase for Shipyard."
 googleAnalytics: ""
 
 Params:
-  author: "Replicated"
-  copyright: "Replicated, Inc"
+  author: "Shipyard"
+  copyright: "Shipyard, Inc"
   search_env: "dev"
 
   matomo:
@@ -18,7 +18,7 @@ Params:
     site: "2"
 
   favicon: ""
-  pagetitle: "Replicated"
+  pagetitle: "Shipyard"
   permalink: "#"
 
   docker_version_default: "17.12.1-ce"
