@@ -1,0 +1,10 @@
+version: '3'
+services:
+  builder:
+    build: "."
+    ports:
+     - "1313:1313"
+    volumes:
+      - '.:/data'
+  labels:
+    shipyard.route: "/"

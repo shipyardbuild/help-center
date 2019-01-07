@@ -17,6 +17,9 @@ build_staging:
 serve:
 	hugo serve --disableFastRender
 
+serve-all:
+	hugo serve --disableFastRender  --bind 0.0.0.0
+
 serve_staging:
 	hugo serve --config config.staging.yaml
 
